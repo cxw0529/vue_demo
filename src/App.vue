@@ -20,7 +20,7 @@
     </el-row>
 >>>>>>> 8b336f8fb0091fab0e8a13396456124153441a2c
     <el-row>
-      <el-col :span="24"><div class="grid-content bg-purple-dark">1</div></el-col>
+      <el-col :span="12"><div class="grid-content bg-purple-dark">1</div></el-col>
     </el-row>
     <el-row>
       <el-col :span="12"><div class="grid-content bg-purple">2</div></el-col>
