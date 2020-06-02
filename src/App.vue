@@ -9,7 +9,16 @@
       <el-button type="warning">警告按钮</el-button>
       <el-button type="danger">危险按钮</el-button>
     </el-row>
+<<<<<<< HEAD
 
+=======
+    <el-row>
+      <el-button>默认按钮</el-button>
+      <el-button size="medium">中等按钮</el-button>
+      <el-button size="small">小型按钮</el-button>
+      <el-button size="mini">超小按钮</el-button>
+    </el-row>
+>>>>>>> 8b336f8fb0091fab0e8a13396456124153441a2c
     <el-row>
       <el-col :span="24"><div class="grid-content bg-purple-dark">1</div></el-col>
     </el-row>
