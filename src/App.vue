@@ -47,7 +47,7 @@
     </el-row>
     <i class="el-icon-edit" >2452</i>
     <i class="el-icon-share"></i>
-    <i class="el-icon-delete"></i>
+    <i class="el-icon-delete" border-radius:30px></i>
     <el-button type="primary" icon="el-icon-search">搜索</el-button>
 
   </div>
@@ -73,22 +73,23 @@ export default {
     margin-bottom: 20px;
     &:last-child {
       margin-bottom: 0;
+      border-radius: 500px;
     }
   }
   .el-col {
     border-radius: 4px;
   }
   .bg-purple-dark {
-    background: #99a9bf;
+    background: #09a9bf;
   }
   .bg-purple {
-    background: #d3dce6;
+    background: #73dce6;
   }
   .bg-purple-light {
     background: #e5e9f2;
   }
   .grid-content {
-    border-radius: 4px;
+    border-radius: 200px;
     min-height: 36px;
   }
   .row-bg {
